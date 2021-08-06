@@ -19,15 +19,7 @@ background: white;
 font-family: Montserrat;
 `;
 
-/*const CityComponent = styled.div`
-display: flex;
-flex-direction: column;
-`;
 
-const WeatherComponent = styled.div`
-display: flex;
-flex-direction: column;
-`;*/
 
 const AppLabel = styled.span`
 color: black;
